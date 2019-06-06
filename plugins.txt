@@ -8,7 +8,7 @@ scm-api
 bouncycastle-api
 structs
 git-client
-git:2.4.2
+git
 github
 github-api
 github-oauth
@@ -58,3 +58,7 @@ mailer
 envinject-api
 javadoc
 workflow-multibranch
+ace-editor
+jquery-detached
+lockable-resources
+pipeline-stage-view
