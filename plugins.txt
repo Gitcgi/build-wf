@@ -62,3 +62,9 @@ ace-editor
 jquery-detached
 lockable-resources
 pipeline-stage-view
+branch-api
+cloudbees-folder
+momentjs
+pipeline-rest-api
+handlebars
+cloudbees-folder
