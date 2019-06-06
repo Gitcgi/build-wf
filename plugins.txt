@@ -68,3 +68,7 @@ momentjs
 pipeline-rest-api
 handlebars
 cloudbees-folder
+github-branch-source
+pipeline-graph-analysis
+pipeline-input-step
+pipeline-stage-step
