@@ -75,3 +75,12 @@ pipeline-stage-step
 pipeline-milestone-step
 pipeline-build-step
 pipeline-model-definition
+pipeline-stage-tags-metadata
+pipeline-model-extensions
+pipeline-model-api
+credentials-binding
+docker-workflow
+pipeline-model-declarative-agent
+authentication-tokens
+docker-commons
+pipeline-model-definition
