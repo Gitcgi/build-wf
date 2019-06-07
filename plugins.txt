@@ -72,3 +72,6 @@ github-branch-source
 pipeline-graph-analysis
 pipeline-input-step
 pipeline-stage-step
+pipeline-milestone-step
+pipeline-build-step
+pipeline-model-definition
